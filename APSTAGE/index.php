@@ -13,4 +13,4 @@ mot de passe <input type="password" name="mdp"> <br>
 <input type="submit" name="send_con" value="OK"> <br>
 </form>
 
-<a href="oubli.php">oubli mot de passe </a>
+<a href="oubli.php">oubli mot de passe?</a>

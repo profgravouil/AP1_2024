@@ -24,7 +24,7 @@ if (isset($_POST['send_con']))
 		}
 		if($trouve==1)
 		{
-			echo "connexion réussie";
+			echo "connexion réussie !";
 		}
 		else {
 			echo "login/mdp pas trouvé";
